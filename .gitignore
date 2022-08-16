@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build files
+bin/
+FruitCollect.iml
+
+# CIS 120 hw files
+hw09-submit.zip
+README.txt
